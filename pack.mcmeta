@@ -1,0 +1,13 @@
+{
+	"pack": {
+        "pack_format": 46,
+        "description": " §7[§c1.21§7] §aModrinth §7Release§r \n§f§7by §3Isla_Nublar§f"
+	},
+    "language": {
+        "sch_de": {
+            "name": "Schwäbisch",
+            "region": "s' Ländle",
+            "bidirectional": false
+        }
+    }
+}
