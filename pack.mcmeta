@@ -1,7 +1,11 @@
 {
 	"pack": {
-        "pack_format": 56,
-        "description": " §7[§c25w15a§7] §aModrinth §7Release§r \n§f§7by §3Isla_Nublar§f"
+        "description": " §7[§c1.13+§7] §aModrinth §7Release§r \n§f§7by §3Isla_Nublar§f",
+        "pack_format": 4,
+        "supported_formats": {
+            "min_inclusive": 4,
+            "max_inclusive": 999
+        }
 	},
     "language": {
         "sch_de": {
